@@ -26,7 +26,7 @@ JTransforms is available on maven central as
         </dependency>
 
 ##  JavaDoc
-[![javadoc](https://javadoc.io/badge2/com.github.wendykierp/JTransforms/javadoc.svg)](https://javadoc.io/doc/com.github.wendykierp/JTransforms)
+[![javadoc](ps://javadoc.io/badge2/com.github.wendykierp/JTransforms/javadoc.svg)](https://javadoc.io/doc/com.github.wendykierp/JTransforms)
 
 ##  Publication
 [Large-Scale Image Deblurring in Java](https://link.springer.com/chapter/10.1007/978-3-540-69384-0_77)
